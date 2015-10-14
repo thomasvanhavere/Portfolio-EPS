@@ -1,0 +1,2 @@
+/Users/Stefan/Documents/2EA/Project ICT 4/AlarmClock kopie/app/build/intermediates/classes/release
+/Users/Stefan/Documents/2EA/Project ICT 4/AlarmClock kopie/app/build/intermediates/pre-dexed/release/support-v4-19.1.0-febde145329cc08b1f6588702e39cb6a712186c8.jar

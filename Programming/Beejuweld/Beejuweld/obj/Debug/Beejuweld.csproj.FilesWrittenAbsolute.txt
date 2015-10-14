@@ -1,0 +1,7 @@
+/Users/thomasvanhavere/Dropbox/EA/Programmeren/Beejuweld/Beejuweld/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/thomasvanhavere/Dropbox/EA/Programmeren/Beejuweld/Beejuweld/obj/Debug/Beejuweld.Form1.resources
+/Users/thomasvanhavere/Dropbox/EA/Programmeren/Beejuweld/Beejuweld/obj/Debug/Beejuweld.Resources.resources
+/Users/thomasvanhavere/Dropbox/EA/Programmeren/Beejuweld/Beejuweld/bin/Debug/Beejuweld.exe.mdb
+/Users/thomasvanhavere/Dropbox/EA/Programmeren/Beejuweld/Beejuweld/bin/Debug/Beejuweld.exe
+/Users/thomasvanhavere/Dropbox/EA/Programmeren/Beejuweld/Beejuweld/obj/Debug/Beejuweld.exe
+/Users/thomasvanhavere/Dropbox/EA/Programmeren/Beejuweld/Beejuweld/obj/Debug/Beejuweld.exe.mdb

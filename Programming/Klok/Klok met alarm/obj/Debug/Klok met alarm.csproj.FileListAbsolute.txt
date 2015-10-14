@@ -1,0 +1,10 @@
+C:\Users\Thomas Van Havere\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok met alarm\bin\Debug\Klok met alarm.exe.config
+C:\Users\Thomas Van Havere\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok met alarm\bin\Debug\Klok met alarm.exe
+C:\Users\Thomas Van Havere\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok met alarm\bin\Debug\Klok met alarm.pdb
+C:\Users\Thomas Van Havere\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok met alarm\obj\Debug\Klok met alarm.exe
+C:\Users\Thomas Van Havere\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok met alarm\obj\Debug\Klok met alarm.pdb
+F:\dropbox\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok met alarm\bin\Debug\Klok met alarm.exe.config
+F:\dropbox\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok met alarm\obj\Debug\Klok met alarm.exe
+F:\dropbox\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok met alarm\obj\Debug\Klok met alarm.pdb
+F:\dropbox\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok met alarm\bin\Debug\Klok met alarm.exe
+F:\dropbox\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok met alarm\bin\Debug\Klok met alarm.pdb

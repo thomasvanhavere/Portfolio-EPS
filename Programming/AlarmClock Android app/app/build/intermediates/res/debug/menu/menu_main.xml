@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/action_add_new_alarm"
+        android:orderInCategory="100"
+        android:icon="@drawable/action_bar_add"
+        android:showAsAction="always"/>
+</menu>
+<!-- From: file:/Users/Stefan/Dropbox/Project%20ICT/Stefan/App%203.1/AlarmClock%20kopie/app/src/main/res/menu/menu_main.xml -->

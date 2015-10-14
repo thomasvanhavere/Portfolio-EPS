@@ -1,0 +1,3 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:state_pressed="true" android:drawable="@drawable/holo_pressed_blue" />      
+</selector><!-- From: file:/Users/Stefan/Documents/2EA/Project%20ICT%204/AlarmClock%20kopie/app/src/main/res/drawable/view_touch_selector.xml -->

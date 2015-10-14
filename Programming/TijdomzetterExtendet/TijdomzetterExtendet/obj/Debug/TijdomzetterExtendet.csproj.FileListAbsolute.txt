@@ -1,0 +1,5 @@
+C:\Users\Thomas Van Havere\Dropbox\EA\Programmeren\Labo programmeren\Sessie 7\TijdomzetterExtendet\TijdomzetterExtendet\bin\Debug\TijdomzetterExtendet.exe.config
+C:\Users\Thomas Van Havere\Dropbox\EA\Programmeren\Labo programmeren\Sessie 7\TijdomzetterExtendet\TijdomzetterExtendet\bin\Debug\TijdomzetterExtendet.exe
+C:\Users\Thomas Van Havere\Dropbox\EA\Programmeren\Labo programmeren\Sessie 7\TijdomzetterExtendet\TijdomzetterExtendet\bin\Debug\TijdomzetterExtendet.pdb
+C:\Users\Thomas Van Havere\Dropbox\EA\Programmeren\Labo programmeren\Sessie 7\TijdomzetterExtendet\TijdomzetterExtendet\obj\Debug\TijdomzetterExtendet.exe
+C:\Users\Thomas Van Havere\Dropbox\EA\Programmeren\Labo programmeren\Sessie 7\TijdomzetterExtendet\TijdomzetterExtendet\obj\Debug\TijdomzetterExtendet.pdb

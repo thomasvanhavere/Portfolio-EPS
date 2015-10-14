@@ -1,0 +1,7 @@
+/Users/Stefan/Documents/2EA/Project ICT 4/AlarmClock kopie/app/build/intermediates/classes/debug
+/Users/Stefan/Documents/2EA/Project ICT 4/AlarmClock kopie/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-53e4fec375f7c665c72feeff79040a20f55e1021.jar
+/Users/Stefan/Documents/2EA/Project ICT 4/AlarmClock kopie/app/build/intermediates/pre-dexed/debug/GraphView-4.0.0-dfe77253e73d40737ebb969e160cbd9cb63bd880.jar
+/Users/Stefan/Documents/2EA/Project ICT 4/AlarmClock kopie/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-c84a2bec9cfbdfff2adba32e92b0397ca60e7962.jar
+/Users/Stefan/Documents/2EA/Project ICT 4/AlarmClock kopie/app/build/intermediates/pre-dexed/debug/android-support-v7-appcompat-420fdf19f9952b1e5e686df036f8f1b9253814ac.jar
+/Users/Stefan/Documents/2EA/Project ICT 4/AlarmClock kopie/app/build/intermediates/pre-dexed/debug/classes-3181fe2a7a0eaa9c607428b6dab52feb10ea6015.jar
+/Users/Stefan/Documents/2EA/Project ICT 4/AlarmClock kopie/app/build/intermediates/pre-dexed/debug/classes-c9e06ba3ea51aa59afa1b661ce5e3c9c799514a7.jar

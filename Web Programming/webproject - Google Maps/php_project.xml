@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<php_project>
+  <Account>
+    <username>Thomas</username>
+    <password>thomas</password>
+  </Account>
+  <Account>
+    <username>peter</username>
+    <password>peter</password>
+  </Account>
+  <Account>
+    <username>joey</username>
+    <password>123</password>
+  </Account>
+  <Account>
+    <username>lorenz</username>
+    <password>123</password>
+  </Account>
+  <Account>
+    <username>stefan</username>
+    <password>123</password>
+  </Account>
+</php_project>

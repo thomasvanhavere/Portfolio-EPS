@@ -1,0 +1,127 @@
+<html >
+<head>
+<title>Pong Met Jquery</title>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript">
+
+
+    var score = 0;
+$(document).ready(function()
+    {
+        var canvas = document.getElementById('canvas');
+         ctx = canvas.getContext('2d');
+         begin();
+         Animate();
+    
+ }); 
+var x = 0;
+var y = 0;
+var vx = 1;
+var vy = 1;
+    
+  
+
+
+function balletje(x, y, straal, vx, vy, ax) {
+    this.x = x;
+    this.y = y;
+    this.vx = vx;
+    this.vy = vy;
+    this.ax = ax;
+    this.straal = straal;
+
+    this.Teken = function () {
+        ctx.beginPath();
+        ctx.arc(this.x, this.y, this.straal, 0, Math.PI * 2, false);
+        ctx.fillStyle = "#0000ff";
+        ctx.strokeStyle = "#ff0000";
+        ctx.stroke();
+        ctx.fill();
+
+    };
+}
+function Paddle(x, y, width, height) {
+    this.x = x;
+    this.y = y;
+    this.width = width;
+    this.height = height;
+  
+
+    this.Teken = function () {
+        ctx.beginPath();
+        ctx.rect(this.x, this.y, this.width, this.height);
+        ctx.fillStyle = "green";
+        ctx.strokeStyle = "yellow";
+        ctx.stroke();
+        ctx.fill();
+    };
+};
+
+function begin()
+{
+    var vx = -2;
+    var vy = 1;
+    speelpaddle = new Paddle(0, 275, 10, 50);
+    balletje = new balletje(300, 200, 5, vx, vy, 0);
+
+    
+}
+
+
+function Animate() {
+
+    // Clear
+    ctx.clearRect(0, 0, 600, 400);
+
+    //UPDATE
+
+ 
+    balletje.vx = balletje.vx + balletje.ax;
+    balletje.x = balletje.x + balletje.vx;
+        balletje.y = balletje.y + balletje.vy;
+
+        if ((balletje.x + balletje.straal) > 600 || (balletje.x - balletje.straal) < 0)
+            balletje.vx *= -1;
+        if ((balletje.y + balletje.straal) > 400 || (balletje.y - balletje.straal) < 0)
+            balletje.vy *= -1;
+
+
+    //TEKEN
+        $("canvas").mousemove(function (event) {
+            var ywaarde = event.pageY-25;
+            speelpaddle.y = ywaarde;
+            
+        });
+        balletje.Teken();
+        speelpaddle.Teken();
+        CheckCollisions(balletje, speelpaddle);
+        ctx.font=("Bold 75px arial")
+    ctx.fillText(score, 300,200)
+        setTimeout(Animate, 15);
+}
+    
+function CheckCollisions(balletje, speelpaddle) {
+   
+    if (balletje.x <5) {
+        score = 0;
+    }
+    if (balletje.x <= speelpaddle.x + 15) {
+        if (((balletje.y + balletje.straal) >= speelpaddle.y) && ((balletje.y + balletje.straal) <= (speelpaddle.y + 50))) {
+            balletje.vx *= -1;
+            score++;
+        }
+    }
+   
+    
+
+
+  
+}
+</script>
+</head>
+
+<body>
+<canvas id="canvas" width="600" height="400" style="border:1px solid #000000;"></canvas>
+<div id ="div1"></div>
+</body>
+</html>

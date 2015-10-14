@@ -1,0 +1,10 @@
+C:\Users\Thomas Van Havere\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok\bin\Debug\Klok.exe.config
+C:\Users\Thomas Van Havere\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok\bin\Debug\Klok.exe
+C:\Users\Thomas Van Havere\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok\bin\Debug\Klok.pdb
+C:\Users\Thomas Van Havere\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok\obj\Debug\Klok.exe
+C:\Users\Thomas Van Havere\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok\obj\Debug\Klok.pdb
+F:\dropbox\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok\bin\Debug\Klok.exe.config
+F:\dropbox\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok\obj\Debug\Klok.exe
+F:\dropbox\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok\obj\Debug\Klok.pdb
+F:\dropbox\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok\bin\Debug\Klok.exe
+F:\dropbox\Dropbox\EA\Programmeren\Labo programmeren\Sessie 11\Klok\Klok\bin\Debug\Klok.pdb
